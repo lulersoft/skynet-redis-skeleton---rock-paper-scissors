@@ -1,4 +1,13 @@
-skynet-redis-skeleton---rock--paper-scissors-demo
+skynet redis skeleton - rock paper scissors
 =================================================
 
-a skynet demo with full features
+a skynet mmo demo with full features
+
+
+TODO
+====
+
+- register/login service
+- logic service
+- db service (redis)
+- ...
